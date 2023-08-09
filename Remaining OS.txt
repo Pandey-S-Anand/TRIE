@@ -1,0 +1,9 @@
+What is the concept of reentrancy?
+What is SMP (Symmetric Multiprocessing)?
+What is a System Call in Operating Systems?
+What is the difference between paging and segmentation?
+Write a name of classic synchronization problems?
+What is the functionality of an Assembler?
+What are interrupts?
+What is Cycle Stealing?
+Write a definition of  Associative Memory and  Cache Memory? 
